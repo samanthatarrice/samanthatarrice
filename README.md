@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sam (she/her)
 - 👀 I'm interested in coding, being a mother, learning, exploring the world ...
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Git, Github, and all things programming!
-- 💞️ I’m looking to collaborate on anything I can get started with! I am still fairly new to this.
+- 🌱 I hava a good understanding of HTML, CSS, Bootstrap, and JS, and currently learning about APIs, Node.js, and Express. React is also next on my list.
+- 💞️ I’m looking to collaborate on anything I can! I'm pretty open to trying out anything.
 - 👩🏻‍💻 Check out some of my pinned repositories to see the projects that best represent my most current work.
 
 <!---
