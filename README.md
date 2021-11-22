@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Sam (she/her)</h1>
 <h3 align="center">A former teacher turned web developer.</h3>
 
-- 🔭 I’m currently working on [Mintbean Hackathon](samanthatarrice.github.io/bobs_search_and_paint/)
+- 🔭 I’m currently working on a project for [Mintbean's Nov 2021 Hackathon](https://github.com/samanthatarrice/bobs_search_and_paint)
 
 - 👀 I'm interested in coding, being a mother to my two year old daughter, learning, exploring the world ...
 
