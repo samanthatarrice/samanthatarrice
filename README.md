@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, Node.js, Express**. I am learning on my own and also will be completing NuCamp's full stack web dev course in April 2022.
 
-- 👨‍💻 All of my projects are available at [https://github.com/samanthatarrice](https://github.com/samanthatarrice)
+- 👩🏻‍💻 All of my projects are available at [https://github.com/samanthatarrice](https://github.com/samanthatarrice)
 
 - 📫 How to reach me **https://www.linkedin.com/in/starrice/**
 
