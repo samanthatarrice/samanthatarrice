@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Redux and React Native**. I am learning on my own and through a Full Stack bootcamp with NuCamp.
 
-- 👩🏻‍💻 Check out my portfolio: samanthatarrice.github.io/portfolio/
+- 👩🏻‍💻 Check out my [portfolio](https://samanthatarrice.github.io/portfolio/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
