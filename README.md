@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Sam (she/her)</h1>
 <h3 align="center">A former teacher turned web developer.</h3>
 
-- 🔭 I’m currently working on a few projects, including a revising a school website using React and a journaling app using React Native.
+- 🔭 I’m currently working on a few projects, including a revising a [school website](https://github.com/samanthatarrice/springbridge) using React and a [journal app](https://github.com/samanthatarrice/journal-app) using React Native.
 
 - 💫 Check out the solo project I completed for [Mintbean's Nov 2021 Hackathon](https://github.com/samanthatarrice/bobs_search_and_paint), where I was awarded with a Mintbean Star!
 
