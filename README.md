@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋, I'm Sam (she/her)</h1>
+<h1 align="center">Hi! 🤗, I'm Sam (she/her)</h1>
 <h3 align="center">A former teacher turned web developer.</h3>
 
 - 🔭 I’m currently working on a few projects, including a revising a [school website](https://github.com/samanthatarrice/springbridge) using React and a [journal app](https://github.com/samanthatarrice/journal-app) using React Native.
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Redux and React Native**. I am learning on my own and through a Full Stack bootcamp with NuCamp.
 
-- 👩🏻‍💻 Check out my [portfolio](https://samanthatarrice.github.io/portfolio/)
+- 👩🏻‍💻 Check out my [portfolio](https://samanthatarrice.github.io/react-portfolio/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
