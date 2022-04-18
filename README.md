@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 🤗, I'm Sam (she/her)</h1>
+<h1 align="center">Hi! 🤗, I'm Sam</h1>
 <h3 align="center">A former teacher turned web developer.</h3>
 
 - 🔭 I’m currently working on a few projects, including a revising a [school website](https://github.com/samanthatarrice/springbridge) using React and a [journal app](https://github.com/samanthatarrice/journal-app) using React Native.
