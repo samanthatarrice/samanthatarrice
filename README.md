@@ -7,7 +7,7 @@
 
 - 👀 I'm interested in coding, being a mother to my two year old daughter, learning, exploring the world ...
 
-- 🌱 I’m currently learning **React, Redux and React Native**. I am learning on my own and through a Full Stack bootcamp with NuCamp.
+- 🌱 I’m currently learning **MongoDB, Node.js and Express**. I am learning on my own and through a Full Stack bootcamp with NuCamp.
 
 - 👩🏻‍💻 Check out my [portfolio](https://samanthatarrice.github.io/portfolio-react/)
 
