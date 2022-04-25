@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Node.js and Express**. I am learning on my own and through a Full Stack bootcamp with NuCamp.
 
-- 👩🏻‍💻 Check out my [portfolio](https://www.samantha-tarric.com/)
+- 👩🏻‍💻 Check out my [portfolio](https://www.samantha-tarrice.com/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
