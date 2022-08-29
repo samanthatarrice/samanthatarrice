@@ -5,9 +5,9 @@
 
 - 💫 Check out the solo project I completed for [Mintbean's Nov 2021 Hackathon](https://github.com/samanthatarrice/bobs_search_and_paint), where I was awarded with a Mintbean Star!
 
-- 👀 I'm interested in coding, being a mother to my two year old daughter, learning, exploring the world ...
+- 👀 I'm interested in a little bit of everything, art, history, coding, being a mother to my two year old daughter, learning, exploring the world ...
 
-- 🌱 I’m currently learning **MongoDB, Node.js and Express**. I am learning on my own and through a Full Stack bootcamp with NuCamp.
+- 🌱 I’m currently learning **MongoDB, Node.js and Express**.
 
 - 👩🏻‍💻 Check out my [portfolio](https://www.samantha-tarrice.com/)
 
