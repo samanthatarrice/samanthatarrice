@@ -1,15 +1,7 @@
 <h1 align="center">Hi! 🤗, I'm Sam</h1>
 <h3 align="center">A former teacher turned web developer.</h3>
 
-- 🔭 I’m currently working on a contracting position where I am refactoring an Art School's [Learning Managment System app](https://github.com/samanthatarrice/hongyun).
-
-- 💫 Check out the solo project I completed for [Mintbean's Nov 2021 Hackathon](https://github.com/samanthatarrice/bobs_search_and_paint), where I was awarded with a Mintbean Star!
-
-- 👀 I'm interested in a little bit of everything, art, history, coding, being a mother to my two year old daughter, learning, exploring the world ...
-
-- 🌱 I’m currently learning **MongoDB, Node.js and Express**.
-
-- 👩🏻‍💻 Check out my [portfolio](https://www.samantha-tarrice.com/)
+👩🏻‍💻 Check out my [portfolio](https://www.samantha-tarrice.com/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
