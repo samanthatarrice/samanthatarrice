@@ -4,6 +4,7 @@
 <p align="center">
 👩🏻‍💻 Check out my
 <a href="https://www.samantha-tarrice.com/" target="blank">portfolio</a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
